@@ -13,7 +13,7 @@ Even before Facebook was introduced in 2004, other social networking sites like 
 Many consider Facebook to be the first, real social network/media, but many forget this technology has not always existed. Fewer seem to forget the impact it has had on the society we live in. Back when they dropped the first version, it was a college platform, where people used a verified e-mail address, such as harward.edu to affiliate the school, and this way ensure no outsiders allowed. Back then it was hard to imagine the magnitude and scale of Facebook (or Meta) as of today. Yet this is the reality. Obviously, it is hard to do it all right the first time, and it seems fair enough that mistakes has been made. On the other hand, we are at a turning point in history, where we need to take action to ensure we are not just blindly accepting any lie or attempt to manipulate us. When companies become larger than countries, an enourmous amount of responsibilty follows. The responsibilty to keep people safe, and avoid false accustations and stories. It is not good enough to say: "We don't want to determine what's right and wrong", because these mediums are too big to run away from their impact to "billions of people". This leading to sacrificing humans over profits, as well as democrazy over agendas by lobbyists and powerful people. It is the exact opposite of the public story of connecting people in a positive frame, it's promising to adhere to the right to free speech, but behind the scenes (secretly) allowing misinformation to spread, which is yielding dividens rather than authentic connections. 
 
 ### Citizen Journalism vs. Social Networking 
-
+Recently, the term `Citizen Journalism` has emerged. It makes sense,
 
 ## Issues at hand
 
@@ -41,6 +41,10 @@ Imagine buying something on Facebook Marketplace, only to realize that the perso
 
 ## We need a vaccine, not a bandage 
 
+### Verification is the only way 
+In an increasingly dependent world of techonology, a pivot is required to keep the public safe. It seems like the right thing to do, yet no one is doing it. Maybe they are scared of competing agains one of the worlds biggest conglomerates, which is understandably. We just simply do not see it any other way. The status quo must be challenged, we must require people to be verified on social networking sites. Therefore we are pioneering this new era, where chatting is encrypted, people are verified and content can't be manipulated by bots and people with unetichal agendas. 
+
+All of this is realistic due to the introduction of the eID. I.e. in Denmark we have `MitID`, which is a digital identity used to log on banks, and sign documents to name a few. 
 
 
 
