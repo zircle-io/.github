@@ -8,6 +8,8 @@ We do not aim to make this is a rip-off big-tech, such as Meta, and just copy an
 ## Issues at hand
 
 ### Coordinated bots sharing fake news to manipulate real people
-Elon Musk said it well, when he acquired Twitter (now X): "~20% of users are bots". If the status quo is that the platforms allow bots to create, share and manipulate society, then we have a serious threat to democrazy. Simultanously, this issue is contradictory for the platforms where it happens – which currently does not exclude anyone – because **first** of all; 
+Elon Musk said it well, when he acquired Twitter (now X): "~20% of users are bots". If the status quo is that the platforms allow bots to create, share and manipulate society, then we have a serious threat to democrazy. Simultanously, this issue is contradictory for the platforms where it happens – which currently does not exclude anyone – because:
+**1.** First of all, the business model depends on user engagement, which can be demonstrated to advertisers paying for this reach and engagement. This yields a result, which does not align with the interest in descaling bots interacting with content, beacuse it shows performance to advertisers, who *love* to see high reach. 
+
 
 ### AI voices are indistinguishable from real people
